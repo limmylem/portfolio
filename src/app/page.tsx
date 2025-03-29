@@ -13,7 +13,7 @@ export default function Home() {
               Welcome to my Portfolio!
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-3xl mx-auto animate-slide-up">
-              I'm a passionate developer specializing in web development, automation, and AI projects.
+              I&apos;m a passionate developer specializing in web development, automation, and AI projects.
               I create elegant solutions to complex problems.
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4 animate-slide-up">

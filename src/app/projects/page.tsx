@@ -31,7 +31,7 @@ export default function Projects() {
             My Projects
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-12 animate-slide-up">
-            Here are some of the projects I've worked on. Each one represents a unique challenge and learning opportunity.
+            Here are some of the projects I&apos;ve worked on. Each one represents a unique challenge and learning opportunity.
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

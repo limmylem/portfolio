@@ -105,7 +105,7 @@ export default function Contact() {
               Get in Touch
             </h1>
             <p className="text-xl text-gray-600 dark:text-gray-300 mb-12">
-              Have a question or want to work together? I'd love to hear from you.
+              Have a question or want to work together? I&apos;d love to hear from you.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
